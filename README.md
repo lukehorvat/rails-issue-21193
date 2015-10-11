@@ -1,4 +1,4 @@
-# rails-issue-21193
+# [rails-issue-21193](https://github.com/rails/rails/issues/21193)
 
 Firstly, install Docker.
 
